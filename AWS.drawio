@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
   <diagram name="Page-1" id="1npiZSmswvkon4gAFHvo">
-    <mxGraphModel dx="2607" dy="1675" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1793" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -88,7 +88,7 @@
         <mxCell id="VEC-emDZ8dzPH6i4BCSv-59" value="" style="shape=image;html=1;verticalAlign=top;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;imageAspect=0;aspect=fixed;image=https://cdn0.iconfinder.com/data/icons/devices-42/512/android_phone-128.png" parent="1" vertex="1">
           <mxGeometry x="1030" y="19.1" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="VEC-emDZ8dzPH6i4BCSv-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Private subnet:&lt;/font&gt;&amp;nbsp;10.0.1.0/24&lt;/font&gt;" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#fad9d5;rounded=0;whiteSpace=wrap;html=1;strokeColor=#ae4132;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
+        <mxCell id="VEC-emDZ8dzPH6i4BCSv-31" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Private subnet:&lt;/font&gt;&amp;nbsp;10.0.2.0/24&lt;/font&gt;" style="shape=mxgraph.ibm.box;prType=subnet;fontStyle=0;verticalAlign=top;align=left;spacingLeft=32;spacingTop=4;fillColor=#fad9d5;rounded=0;whiteSpace=wrap;html=1;strokeColor=#ae4132;strokeWidth=1;dashed=0;container=1;spacing=-4;collapsible=0;expand=0;recursiveResize=0;" parent="1" vertex="1">
           <mxGeometry x="1100" y="700" width="260" height="250" as="geometry" />
         </mxCell>
         <mxCell id="VEC-emDZ8dzPH6i4BCSv-48" value="Clients" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" parent="VEC-emDZ8dzPH6i4BCSv-31" vertex="1">
