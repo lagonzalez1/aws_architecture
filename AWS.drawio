@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.0 Safari/537.36" version="24.7.12">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.1 Safari/605.1.15" version="26.2.10">
   <diagram name="Page-1" id="1npiZSmswvkon4gAFHvo">
-    <mxGraphModel dx="1793" dy="1151" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1829" dy="1491" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -198,32 +198,38 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="VEC-emDZ8dzPH6i4BCSv-92" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" parent="1" vertex="1">
-          <mxGeometry x="917.23" y="550" width="68" height="38" as="geometry" />
-        </mxCell>
         <mxCell id="VEC-emDZ8dzPH6i4BCSv-94" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;NGINX&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="921.23" y="591" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="VEC-emDZ8dzPH6i4BCSv-32" target="eG7gTmfQhX4MJYUldXyf-1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" parent="1" source="VEC-emDZ8dzPH6i4BCSv-92" target="eG7gTmfQhX4MJYUldXyf-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="780" y="500" as="sourcePoint" />
             <mxPoint x="1545" y="536" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoints;" vertex="1" parent="1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-1" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#8C4FFF;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.endpoints;" parent="1" vertex="1">
           <mxGeometry x="1392" y="497" width="78" height="78" as="geometry" />
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Images&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-3" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Images&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1749" y="418" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Internet Gateway&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;Internet Gateway&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1110" y="418" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VPC Endpoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-5" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VPC Endpoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1401" y="418" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="eG7gTmfQhX4MJYUldXyf-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VPC Endpoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="eG7gTmfQhX4MJYUldXyf-6" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;VPC Endpoint&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1401" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gWdV4mBofVnwkRITIHzd-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" source="VEC-emDZ8dzPH6i4BCSv-32" target="VEC-emDZ8dzPH6i4BCSv-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="780" y="500" as="sourcePoint" />
+            <mxPoint x="1392" y="536" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="VEC-emDZ8dzPH6i4BCSv-92" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/other/API_Proxy.svg;" parent="1" vertex="1">
+          <mxGeometry x="750" y="481" width="68" height="38" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
